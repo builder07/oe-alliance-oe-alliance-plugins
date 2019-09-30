@@ -4,7 +4,7 @@
 	</prerequisites>
 	<info>
 			<name>vfdcontrol</name>
-			<packagename>enigma2-plugin-systemplugins-vfdcontrol</packagename>
+			<packagename>enigma2-plugin-systemplugins-7segmentvfdcontrol</packagename>
 			<shortdescription>VFD Control </shortdescription>
 			<description>control 7 segment VFD display</description>
 	</info>
