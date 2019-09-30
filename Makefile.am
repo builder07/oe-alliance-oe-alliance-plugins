@@ -215,7 +215,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if USTYM4KPRO
-SUBDIRS += MultiTransCodingSetup vfdcontrol
+SUBDIRS += MultiTransCodingSetup VPLEDControl 7segmentvfdcontrol
 endif
 
 if BEYONWIZV2
