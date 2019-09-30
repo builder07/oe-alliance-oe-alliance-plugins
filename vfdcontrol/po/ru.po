@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"POT-Creation-Date: 2019-09-30 10:58+0200\n"
 "PO-Revision-Date: 2016-04-23 14:21+0300\n"
-"Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
-"Language-Team: LANGUAGE <dima-73@inbox.lv>\n"
+"Last-Translator: openfix <openfix@users.noreply.github.com>\n"
+"Language-Team: openfix <openfix@users.noreply.github.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,37 +19,37 @@ msgid "24h"
 msgstr "24ч"
 
 msgid "Always off"
-msgstr "Всегда выкл."
+msgstr ""
 
 msgid "Brightness Level 1"
-msgstr "Уровень яркости 1"
+msgstr ""
 
 msgid "Brightness Level 2"
-msgstr "Уровень яркости 2"
+msgstr ""
 
 msgid "Brightness level"
-msgstr "Уровень яркости"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Отмена"
+msgstr "Отменить"
 
 msgid "Change VFD display settings"
-msgstr "Смена настроек VFD дисплея"
+msgstr ""
 
 msgid "Channelnumber in Standby Clock"
-msgstr "Номер канала в режиме ожидания"
+msgstr ""
 
 msgid "Channelnumber in Standby off"
-msgstr "Выкл. номер канала в режиме ожидания"
+msgstr ""
 
 msgid "Channelnumber/Clock in Standby Clock"
-msgstr "Номер канала/часы в режиме ожидания"
+msgstr ""
 
 msgid "Clock always"
-msgstr "Часы всегда"
+msgstr ""
 
 msgid "Control 7 segment VFD display"
-msgstr "Контроль 7 сегментов дисплея VFD"
+msgstr "Управление настройками VFD"
 
 msgid "Off"
 msgstr "Выкл."
@@ -61,22 +61,22 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "Show REC-Symbol in Display"
-msgstr "Показать REC-символ на дисплее"
+msgstr ""
 
 msgid "Show blinking Clock on Display during recording"
-msgstr "Показать мигающие часы на дисплее во время записи"
+msgstr ""
 
 msgid "Show on VFD"
-msgstr "Показать на VFD"
+msgstr ""
 
 msgid "Time mode"
-msgstr "Режим времени"
+msgstr ""
 
 msgid "Update Date/Time"
-msgstr "Обновить дату/время"
+msgstr ""
 
 msgid "VFD Display Setup"
-msgstr "Настройки VFD дисплея"
+msgstr "Настройки VFD"
 
 msgid "no"
 msgstr "нет"
