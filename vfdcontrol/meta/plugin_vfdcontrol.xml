@@ -3,6 +3,7 @@
 		<tag type="System" />
 	</prerequisites>
 	<info>
+		        <author>openfix</author>
 			<name>vfdcontrol</name>
 			<packagename>enigma2-plugin-systemplugins-vfdcontrol</packagename>
 			<shortdescription>VFD Control </shortdescription>
