@@ -232,6 +232,11 @@ Makefile
 3GModemManager/po/Makefile
 3GModemManager/meta/Makefile
 
+7segmentvfdcontrol/Makefile
+7segmentvfdcontrol/src/Makefile
+7segmentvfdcntrol/meta/Makefile
+7segmentvfdcontrol/po/Makefile
+
 AudioEffect/Makefile
 AudioEffect/src/Makefile
 AudioEffect/meta/Makefile
