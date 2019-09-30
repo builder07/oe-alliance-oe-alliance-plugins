@@ -13,7 +13,7 @@ import Screens.Standby
 from Tools.HardwareInfo import HardwareInfo
 
 use_oled = False
-if HardwareInfo().get_device_model() in ("formuler3", "formuler4", "s1", "h3", "h4", "h5", "lc", "ustym4kpro"):
+if HardwareInfo().get_device_model() in ("ustym4kpro"):
 	use_oled = True
 
 config.plugins.VFD_ini = ConfigSubsection()
@@ -315,15 +315,8 @@ class VFD_INI:
 		config.misc.standbyCounter.addNotifier(standbyCounterChanged, initial_call = False)
 
 def main(menuid):
-	if getImageDistro() in ("openfix"):
-	if menuid == "display":
-	return [(_("VFD Display Setup"), startVFD, "vfd_ini", None)]
-	else:
-	return[ ]
-        else:
 	if menuid != "system":
-	return [ ]
-        else:
+		return [ ]
 	return [(_("VFD Display Setup"), startVFD, "vfd_ini", None)]
 
 def startVFD(session, **kwargs):
