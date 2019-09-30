@@ -234,7 +234,7 @@ Makefile
 
 7segmentvfdcontrol/Makefile
 7segmentvfdcontrol/src/Makefile
-7segmentvfdcntrol/meta/Makefile
+7segmentvfdcontrol/meta/Makefile
 7segmentvfdcontrol/po/Makefile
 
 AudioEffect/Makefile
@@ -504,6 +504,11 @@ SparkUnionTunerType/Makefile
 SparkUnionTunerType/src/Makefile
 SparkUnionTunerType/po/Makefile
 SparkUnionTunerType/meta/Makefile
+
+vfdcontrol/Makefile
+vfdcontrol/src/Makefile
+vfdcontrol/meta/Makefile
+vfdcontrol/po/Makefile
 
 ])
 AC_OUTPUT
