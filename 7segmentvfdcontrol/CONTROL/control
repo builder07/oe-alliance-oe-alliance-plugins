@@ -1,0 +1,5 @@
+Package: enigma2-plugin-systemplugins-7segmentvfdcontrol
+Version: 2.0-r1
+Description: control 7 segment VFD display
+Maintainer: builder
+Depends: 
