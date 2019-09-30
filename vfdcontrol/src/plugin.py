@@ -315,8 +315,15 @@ class VFD_INI:
 		config.misc.standbyCounter.addNotifier(standbyCounterChanged, initial_call = False)
 
 def main(menuid):
+	if getImageDistro() in ("openfix"):
+	if menuid == "display":
+	return [(_("VFD Display Setup"), startVFD, "vfd_ini", None)]
+	else:
+	return[ ]
+        else:
 	if menuid != "system":
-		return [ ]
+	return [ ]
+        else:
 	return [(_("VFD Display Setup"), startVFD, "vfd_ini", None)]
 
 def startVFD(session, **kwargs):
