@@ -215,7 +215,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if USTYM4KPRO
-SUBDIRS += MultiTransCodingSetup vfdcontrol
+SUBDIRS += MultiTransCodingSetup vfdcontrol WirelessAccessPoint
 endif
 
 if BEYONWIZV2
